@@ -1,7 +1,3 @@
-<style>
-body {
-    background-color: brown;
-}
 
 h1, .center {
     text-align: center;
@@ -32,24 +28,12 @@ h1, .center {
     font-size: x-large;
     color: orange;
 }  
-.imgBorder {
-    border-style: groove;
-    border-width: medium;
-    color: orange;
-}  
-
-
-h2, h3, p {
-    
-}
-
-
-
-
 .styledFont {
     color: greenyellow;
 }
+.imgBorder {
+    border-style: groove;
+    border-width: medium;
+    border-color: orange;
+}  
 
-
-</style>
-<!-- END CSS -->
