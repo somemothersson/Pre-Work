@@ -1,0 +1,55 @@
+<style>
+body {
+    background-color: brown;
+}
+
+h1, .center {
+    text-align: center;
+}
+.redText {
+    color: red;
+}
+.blueText {
+    color: blue;
+}
+.greenText {
+    color: green;
+}
+.bigText {
+    font-size: xx-large;
+}
+.tinyText {
+    font-size: xx-small;
+}      
+.boldText {
+    font-weight: bold;
+}      
+.typeFace1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.multiAttrib {
+    font-weight: bold;
+    font-size: x-large;
+    color: orange;
+}  
+.imgBorder {
+    border-style: groove;
+    border-width: medium;
+    color: orange;
+}  
+
+
+h2, h3, p {
+    
+}
+
+
+
+
+.styledFont {
+    color: greenyellow;
+}
+
+
+</style>
+<!-- END CSS -->
